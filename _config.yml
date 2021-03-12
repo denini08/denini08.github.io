@@ -75,7 +75,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: leopoldomt # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -138,8 +138,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Teixeira
+  first_name: [Leopoldo, L.]
 
   style: apa
   locale: en
