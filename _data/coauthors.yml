@@ -34,62 +34,58 @@
   - firstname: ["Christoph", "C."]
     url: https://scholar.google.de/citations?user=QbqbY4kAAAAJ&hl=de
 
-"Thüm": 
-  - firstname: ["Thomas", "T."]
-    url: https://www.uni-ulm.de/in/sp/team/thuem/
-
-"Miranda"
+"Miranda":
   - firstname: ["Breno", "B."]
     url: https://cin.ufpe.br/~bafm/
 
-"Sampaio"
+"Sampaio":
   - firstname: ["Gabriela", "G."]
     url: https://www.doc.ic.ac.uk/~gcs817/
 
-"Fonseca"
+"Fonseca":
   - firstname: ["Baldoino", "B."]
     url: https://sites.google.com/a/ic.ufal.br/baldoino/
 
-"Silva"
+"Silva":
   - firstname: ["Denini", "D."]
     url: https://denini08.github.io
 
-"Cartaxo"
+"Cartaxo":
   - firstname: ["Bruno", "B."]
     url: http://brunocartaxo.com
 
-"Schaefer"
+"Schaefer":
   - firstname: ["Ina", "I."]
     url: https://www.tu-braunschweig.de/en/isf/team/schaefer
 
-"Oliveira"
+"Oliveira":
   - firstname: ["Victor", "V."]
     url: http://brunocartaxo.com
 
-"Ebert"
+"Ebert":
   - firstname: ["Felipe", "F."]
     url: http://brunocartaxo.com
 
-"Alves"
+"Alves":
   - firstname: ["Thayonara", "T."]
     url: https://github.com/Thayonara
 
-"Garcia"
+"Garcia":
   - firstname: ["Alessandro", "A.", "Alessandro F.", "A. F."]
     url: http://www-di.inf.puc-rio.br/~afgarcia/
 
-"Souza"
+"Souza":
   - firstname: ["Jairo", "J."]
     url: http://lattes.cnpq.br/4546756783240359
 
-"Lima"
+"Lima":
   - firstname: ["Rodrigo", "R."]
     url: #
 
-"Reps"
+"Reps":
   - firstname: ["Thomas", "T.", "T. W.", "Thomas W."]
     url: http://pages.cs.wisc.edu/~reps/
 
-"Henkel"
+"Henkel":
   - firstname: ["Jordan", "J."]
     url: https://pages.cs.wisc.edu/~jjhenkel/
