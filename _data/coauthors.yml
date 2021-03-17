@@ -1,18 +1,95 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Borba":
+  - firstname: ["Paulo", "P."]
+    url: https://www.cin.ufpe.br/~phmb/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Gheyi":
+  - firstname: ["Rohit", "R."]
+    url: http://www.dsc.ufcg.edu.br/~rohit/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ribeiro":
+  - firstname: ["Márcio", "M."]
+    url: https://sites.google.com/a/ic.ufal.br/marcio/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Alves": 
+  - firstname: ["Vander", "V."]
+    url: https://cic.unb.br/~valves/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"d'Amorim": 
+  - firstname: ["Marcelo", "M."]
+    url: https://www.cin.ufpe.br/~damorim/
+
+"Kulesza": 
+  - firstname: ["Uirá", "Uira", "U."]
+    url: https://www.dimap.ufrn.br/~uira/
+
+"Mongiovi": 
+  - firstname: ["Melina", "M."]
+    url: http://www.dsc.ufcg.edu.br/~spg/Mongiovi/Home.html
+
+"Soares": 
+  - firstname: ["Gustavo", "G."]
+    url: https://gustavoasoares.github.io
+
+"Seidl": 
+  - firstname: ["Christoph", "C."]
+    url: https://scholar.google.de/citations?user=QbqbY4kAAAAJ&hl=de
+
+"Thüm": 
+  - firstname: ["Thomas", "T."]
+    url: https://www.uni-ulm.de/in/sp/team/thuem/
+
+"Miranda"
+  - firstname: ["Breno", "B."]
+    url: https://cin.ufpe.br/~bafm/
+
+"Sampaio"
+  - firstname: ["Gabriela", "G."]
+    url: https://www.doc.ic.ac.uk/~gcs817/
+
+"Fonseca"
+  - firstname: ["Baldoino", "B."]
+    url: https://sites.google.com/a/ic.ufal.br/baldoino/
+
+"Silva"
+  - firstname: ["Denini", "D."]
+    url: https://denini08.github.io
+
+"Cartaxo"
+  - firstname: ["Bruno", "B."]
+    url: http://brunocartaxo.com
+
+"Schaefer"
+  - firstname: ["Ina", "I."]
+    url: https://www.tu-braunschweig.de/en/isf/team/schaefer
+
+"Oliveira"
+  - firstname: ["Victor", "V."]
+    url: http://brunocartaxo.com
+
+"Ebert"
+  - firstname: ["Felipe", "F."]
+    url: http://brunocartaxo.com
+
+"Alves"
+  - firstname: ["Thayonara", "T."]
+    url: https://github.com/Thayonara
+
+"Garcia"
+  - firstname: ["Alessandro", "A.", "Alessandro F.", "A. F."]
+    url: http://www-di.inf.puc-rio.br/~afgarcia/
+
+"Souza"
+  - firstname: ["Jairo", "J."]
+    url: http://lattes.cnpq.br/4546756783240359
+
+"Lima"
+  - firstname: ["Rodrigo", "R."]
+    url: #
+
+"Reps"
+  - firstname: ["Thomas", "T.", "T. W.", "Thomas W."]
+    url: http://pages.cs.wisc.edu/~reps/
+
+"Henkel"
+  - firstname: ["Jordan", "J."]
+    url: https://pages.cs.wisc.edu/~jjhenkel/
