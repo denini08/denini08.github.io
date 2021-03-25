@@ -6,19 +6,19 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lmt.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room C012</p>
+    <p>Informatics Center</p>
+    <p>Recife, Brazil</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an assistant professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg). I am also part of a research project with [Motorola Mobility](http://www.motorola.com), related to the analysis and improvement of several aspects of smartphone development, with a particular focus on testing activities.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests involve Software Engineering, with a focus on providing strong foundations for improving software quality and productivity. In particular, I have worked on software product lines and configurable systems, refactoring, formal methods, software testing, and mobile development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my PhD in Computer Science from the [Federal University of Pernambuco (CIn-UFPE)](https://www.cin.ufpe.br) in 2014, under the supervision of [Paulo Borba](https://pauloborba.github.io) and [Rohit Gheyi](http://www.dsc.ufcg.edu.br/~rohit/). During my PhD, I spent a winter term at the [University of Waterloo](https://uwaterloo.ca), working with [Krzysztof Czarnecki](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/people-profiles/krzysztof-czarnecki). My MSc degree in Computer Science was also obtained at [CIn-UFPE](https://www.cin.ufpe.br) (2010), and prior to that I obtained a bachelor's degree in Computer Engineering from the [Polytechnic School of Pernambuco](http://poli.upe.br) (2007). 
