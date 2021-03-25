@@ -93,3 +93,67 @@
 "Henkel":
   - firstname: ["Jordan", "J."]
     url: https://pages.cs.wisc.edu/~jjhenkel/
+
+"Cordy":
+  - firstname: ["Maxime", "M."]
+    url: https://wwwen.uni.lu/snt/people/maxime_cordy
+
+"Rebelo":
+  - firstname: ["Henrique", "H."]
+    url: https://www.cin.ufpe.br/~hemr/
+
+"Schmid":
+  - firstname: ["Klaus", "K."]
+    url: https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
+
+"Walkingshaw":
+  - firstname: ["Eric", "E."]
+    url: https://web.engr.oregonstate.edu/~walkiner/
+
+"Mukelabai":
+  - firstname: ["Mukelabai", "M."]
+    url: https://www.chalmers.se/en/staff/Pages/muka.aspx
+
+"Varshosaz":
+  - firstname: ["Mahsa", "M."]
+    url: http://mahsavarshosaz.net
+
+"Botterweck":
+  - firstname: ["Goetz", "G."]
+    url: http://www.botterweck.de
+
+"Kehrer":
+  - firstname: ["Timo", "T."]
+    url: https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse
+
+"Braz":
+  - firstname: ["Larissa", "L."]
+    url: https://www.ifi.uzh.ch/en/zest/team/barbosa.html
+
+"Guo":
+  - firstname: ["Jianmei", "J."]
+    url: https://www.linkedin.com/in/jmguo/
+
+"Schobbens":
+  - firstname: ["Pierre-Yves", "P. Y.", "Pierre", "P."]
+    url: https://directory.unamur.be/staff/pyschobb
+
+"Wasowski":
+  - firstname: ["Andrzej", "A."]
+    url: http://www.itu.dk/people/wasowski/
+
+"Czarnecki":
+  - firstname: ["Krzysztof", "K."]
+    url: https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/people-profiles/krzysztof-czarnecki
+
+"Lanna":
+  - firstname: ["André", "A.", "Andre"]
+    url: https://andrelanna.github.io/
+
+"Bonifácio":
+  - firstname: ["Rodrigo", "R."]
+    url: https://rbonifacio.github.io/
+
+"Cirilo":
+  - firstname: ["Elder", "E."]
+    url: https://dcomp.ufsj.edu.br/~elder/

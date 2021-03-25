@@ -69,10 +69,9 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
-        {% if entry.volume %}, Volume {{entry.volume}}{% endif %}{% if entry.pages %}, pages {{entry.pages}}{% endif %}{% if entry.month %}, {{entry.month}}{% endif %} {{entry.year}}
+        <em>{{entry.journal}}</em>{% if entry.volume %}, volume {{entry.volume}}{% endif %}{% if entry.number %}, {{entry.number}}{% endif %}{% if entry.pages %}, pages {{entry.pages}}{% endif %}
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em><br />
+        <em>{{entry.booktitle}}</em><br />
         {% if entry.acronym %}
           {% if entry.urlvenue %}
             (<a href="{{ entry.urlvenue }}" target="_blank">{{entry.acronym}} {{entry.year}}</a>)
@@ -80,7 +79,7 @@
             ({{entry.acronym}} {{entry.year}})
           {% endif %} 
         {% endif %}
-        {% if entry.location %}, {{entry.location}}{% endif %}{% if entry.month %}, {{entry.month}}{% endif %} {{entry.year}}
+        {% if entry.location %}, {{entry.location}}{% endif %}
       {% endif %}
       </div>
     {% endif %}
