@@ -69,13 +69,19 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>{% if entry.volume %}, {{entry.volume}}{% endif %}{% if entry.pages %}, {{entry.pages}}{% endif %}
+        <em>{{entry.journal}}</em>
+        {% if entry.volume %}, Volume {{entry.volume}}{% endif %}{% if entry.pages %}, pages {{entry.pages}}{% endif %}{% if entry.month %}, {{entry.month}}{% endif %} {{entry.year}}
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
+        <em>In {{entry.booktitle}}</em><br />
+        {% if entry.acronym %}
+          {% if entry.urlvenue %}
+            (<a href="{{ entry.urlvenue }}" target="_blank">{{entry.acronym}} {{entry.year}}</a>)
+          {% else %}
+            ({{entry.acronym}} {{entry.year}})
+          {% endif %} 
+        {% endif %}
+        {% if entry.location %}, {{entry.location}}{% endif %}{% if entry.month %}, {{entry.month}}{% endif %} {{entry.year}}
       {% endif %}
-      <!-- {% if entry.year %}
-        {{entry.year}}
-      {% endif %} -->
       </div>
     {% endif %}
 
@@ -90,7 +96,15 @@
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
     {% endif %}
     {% if entry.url %}
-      <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+      {% if entry.url contains 'https://doi.org' %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+      {% else %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">URL</a>
+      {% endif %}
+    {% else %}
+      {% if entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+      {% endif %}
     {% endif %}
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
