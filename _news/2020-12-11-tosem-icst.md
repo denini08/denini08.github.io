@@ -1,12 +1,9 @@
 ---
 layout: post
+title: Great news, two paper acceptances in the same day, ICST'2021 and TOSEM!
 date: 2020-12-03 12:00:00-0300
 inline: false
 ---
-
-Great news, two paper acceptances in the same day, ICST and TOSEM!
-
-***
 
 *A Formal Framework of Software Product Line Analysis* was accepted for publication in the [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem). In this paper, we generalize our prior work on reliability analysis of software product lines to consider arbitrary analysis. We provide a framework that was specified and proved using the PVS theorem prover.  
 
