@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-12-03 12:00:00-0300
-inline: true
+inline: false
 ---
 
 Great news, two paper acceptances in the same day, ICST and TOSEM!
