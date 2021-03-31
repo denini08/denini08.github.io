@@ -1,0 +1,13 @@
+- role: 'Role'
+  venue: Name
+  link: http://www.name.com
+  year: 2016
+  extra: PhD
+  chair: yes
+
+- role: 'Role'
+  venue: Name
+  link: http://www.name.com
+  year: 2016
+  extra: '(together with...)'
+  chair: no

@@ -10,78 +10,65 @@ nav: true
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-		  <h3>2020.2</h3>
-		  <ul>
-			<li>Software Testing (Graduate course shared with <a href="https://www.cin.ufpe.br/~bafm/">Breno Miranda</a>)</li>
-		  </ul>
+### 2020.2
 
-		  <h3>2020.1</h3>
-		  <ul>
-			<li>Compilers (Computer Science)</li>
-			<li>Programming for Android Devices (Optional Course)</li>
-		  </ul>
+-   Software Testing (Graduate course shared with [Breno Miranda](https://www.cin.ufpe.br/~bafm/))
 
-		  <h3>2019.2</h3>
-		  <ul>
-			<li>Compilers (Computer Science)</li>
-			<li>Advanced Topics on Programming for Mobile Devices (Optional Course)</li>
-		  </ul>
+### 2020.1
 
-		  <h3>2019.1</h3>
-		  <ul>
-			<li>Compilers (Computer Science)</li>
-			<li>Programming for Android Devices (Optional Course)</li>
-		  </ul>
+-   Compilers (Computer Science)
+-   Programming for Android Devices (Optional Course)
 
-		  <h3>2018.2</h3>
-		  <ul>
-			<li>Compilers (Computer Science)</li>
-			<li>Advanced Topics on Programming for Mobile Devices (Optional Course)</li>
-		  </ul>
+### 2019.2
 
-		  <h3>2018.1</h3>
-		  <ul>
-			<li>Compilers (Computer Science)</li>
-			<li>Programming for Android Devices (Optional Course)</li>
-		  </ul>
+-   Compilers (Computer Science)
+-   Advanced Topics on Programming for Mobile Devices (Optional Course)
 
-		  <h3>2017.2</h3>
-			<ul>
-			  <li>Compilers (Computer Science)</li>
-			  <li>Advanced Topics on Programming for Mobile Devices (Optional Course)</li>
-			</ul>
+### 2019.1
 
-		  <h3>2017.1</h3>
-			<ul>
-			  <li>Compilers (Computer Science)</li>
-			  <li>Programming for Android Devices (Optional Course)</li>
-			</ul>
+-   Compilers (Computer Science)
+-   Programming for Android Devices (Optional Course)
 
-		  <h3>2016.2</h3>
-			<ul>
-			  <li>Compilers (Computer Science)</li>
-			</ul>
+### 2018.2
 
-		  <h3>2016.1</h3>
-			<ul>
-			  <li>Algorithms and Data Structures (Information Systems)</li>
-			  <li>Compilers (Computer Science & Computer Engineering)</li>
-			</ul>
+-   Compilers (Computer Science)
+-   Advanced Topics on Programming for Mobile Devices (Optional Course)
 
-		  <h3>2015.2</h3>
-			<ul>
-			  <li>Algorithms and Data Structures (Information Systems)</li>
-			  <li>Compilers (Computer Science)</li>
-			</ul>
+### 2018.1
 
-		  <h3>2015.1</h3>
-			<ul>
-			  <li>Algorithms and Data Structures (Information Systems)</li>
-			  <li>Programming for Android Devices (Optional Course)</li>
-			</ul>
+-   Compilers (Computer Science)
+-   Programming for Android Devices (Optional Course)
 
-		  <h3>2014.2</h3>
-			<ul>
-			  <li>Algorithms and Data Structures (Information Systems)</li>
-			  <li>Programming for Android Devices (Optional Course)</li>
-			</ul>
+### 2017.2
+
+-   Compilers (Computer Science)
+-   Advanced Topics on Programming for Mobile Devices (Optional Course)
+
+### 2017.1
+
+-   Compilers (Computer Science)
+-   Programming for Android Devices (Optional Course)
+
+### 2016.2
+
+-   Compilers (Computer Science)
+
+### 2016.1
+
+-   Algorithms and Data Structures (Information Systems)
+-   Compilers (Computer Science & Computer Engineering)
+
+### 2015.2
+
+-   Algorithms and Data Structures (Information Systems)
+-   Compilers (Computer Science)
+
+### 2015.1
+
+-   Algorithms and Data Structures (Information Systems)
+-   Programming for Android Devices (Optional Course)
+
+### 2014.2
+
+-   Algorithms and Data Structures (Information Systems)
+-   Programming for Android Devices (Optional Course)
