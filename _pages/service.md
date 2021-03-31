@@ -3,7 +3,7 @@ layout: page
 title: service
 permalink: /service/
 description: Academic service 
-nav: false
+nav: true
 ---
 <!-- {% comment %}
 *
