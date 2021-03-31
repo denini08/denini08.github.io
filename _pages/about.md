@@ -2,22 +2,20 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.cin.ufpe.br">Assistant Professor @ CIn-UFPE</a>.
 
 profile:
   align: right
   image: lmt.jpeg
   address: >
     <p>Room C012</p>
-    <p>Informatics Center</p>
-    <p>Recife, Brazil</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg). I am also part of a research project with [Motorola Mobility](http://www.motorola.com), related to the analysis and improvement of several aspects of smartphone development, with a particular focus on testing activities.
+Hi there! I am an assistant professor at the [Informatics Center (CIn)](https://www.cin.ufpe.br/) of the [Federal University of Pernambuco](https://www.ufpe.br), where I lead the [Software Testing and Analysis Research](https://star.cin.ufpe.br/) group. I am also affiliated with the [Software Productivity Group](https://www.cin.ufpe.br/spg) and a joint research project with [Motorola Mobility](http://www.motorola.com), related to the analysis and improvement of several aspects of smartphone development, with a particular focus on testing activities.
 
 My research interests involve Software Engineering, with a focus on providing strong foundations for improving software quality and productivity. In particular, I have worked on software product lines and configurable systems, refactoring, formal methods, software testing, and mobile development.
 
