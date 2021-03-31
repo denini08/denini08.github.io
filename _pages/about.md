@@ -8,7 +8,7 @@ profile:
   align: right
   image: lmt.jpeg
   address: >
-    <p>Room C012</p>
+    <p>Room C012 @ CIn-UFPE</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
