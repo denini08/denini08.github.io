@@ -14,7 +14,6 @@ nav: false
 *  To make it work you first have to assign the data to a new string
 *  called `sorted`.
 *
-{% endcomment %}
 <ul>
     {% assign sorted = site.collection_name | sort: 'date' | reverse %}
     {% for item in sorted %}
@@ -59,8 +58,8 @@ nav: false
     </a>
   </div>
 {% endfor %}
-
-</div> -->
+</div> 
+{% endcomment %} -->
 
 		  <h3>2021</h3>
 		  <ul>

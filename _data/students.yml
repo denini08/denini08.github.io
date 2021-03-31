@@ -1,0 +1,15 @@
+- name: Name
+  link: http://www.name.com
+  start: 2016
+  end: 2019
+  category: PhD
+  finished: true
+  title: 'title'
+  extra: 'extra info'
+  coadvisor: 'coadvisor'
+  coadvisor_url: 'http://www.cin.ufpe.br'
+
+# - category: MSc
+# - category: Professional Masters
+# - category: Capstone project
+# - category: Undergraduate Researchers

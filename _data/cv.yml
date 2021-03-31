@@ -1,0 +1,552 @@
+name: Leopoldo Teixeira
+email: lmt@cin.ufpe.br
+
+affiliation: |
+    Assistant Professor, [Computer Science](https://www.cin.ufpe.br)
+    [Federal University of Pernambuco](https://www.ufpe.br)
+
+education:
+    -
+        school: Federal University of Pernambuco
+        degree: PhD in Computer Science
+        dates: 2010&ndash;2014
+        note: |
+            Advisors: <a href="http://homes.cs.washington.edu/~luisceze/">Luis Ceze</a>
+            and <a href="http://homes.cs.washington.edu/~djg/">Dan Grossman</a><br>
+            Dissertation: <a href="http://homes.cs.washington.edu/~asampson/media/dissertation.pdf"><i>Hardware and Software for Approximate Computing</i></a>
+    -
+        school: Harvey Mudd College
+        degree: Bachelor of Science with High Distinction, Computer Science
+        dates: 2005&ndash;2009
+        note: |
+            Advisor: <a href="http://www.cs.hmc.edu/~geoff/">Geoff Kuenning</a>
+
+jobs:
+    -
+        title: Assistant Professor
+        where: Cornell University &mdash; Department of Computer Science
+        dates: 2016&ndash;
+        selected: true
+
+    -
+        title: Visiting Researcher
+        where: Microsoft Research &mdash; Research in Software Engineering (RiSE)
+        dates: 2015&ndash;2016
+        selected: true
+
+    -
+        title: Research Intern
+        where: Microsoft Research &mdash; Research in Software Engineering (RiSE)
+        dates: 2013
+
+    -
+        title: Research Intern
+        where: Microsoft Research &mdash; Extreme Computing Group (XCG)
+        dates: 2012
+
+    -
+        title: Research Intern
+        where: Qualcomm, Inc. &mdash; Bay Area R&amp;D
+        dates: 2010
+
+    -
+        title: Graduate Researcher
+        where: University of Washington
+        dates: 2009&ndash;2015
+
+    -
+        title: Undergraduate Researcher
+        where: Harvey Mudd College &mdash; NSF REU Program
+        dates: 2007
+
+honors:
+    - text: '<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845952">NSF CAREER award</a>, 2019'
+      selected: true
+    - text: 'Cornell College of Engineering Ralph S. Watts ’72 Excellence in Teaching Award, 2018'
+      selected: true
+    - text: 'Distinguished Artifact Award, <a href="https://2017.splashcon.org/track/splash-2017-OOPSLA">OOPSLA 2017</a>'
+    - text: '<a href="https://research.googleblog.com/2017/02/google-research-awards-2016.html">Google Faculty Research Award</a>, 2016'
+      selected: true
+    - text: 'UW CSE <a href="https://www.cs.washington.edu/education/award_winning_students/chan">William Chan Memorial Dissertation Award</a>, 2015'
+      selected: true
+    - text: 'Best presentation, <a href="https://news.cs.washington.edu/2015/01/10/cses-2015/">first UW Computer Science &amp; Engineering Symposium (CSES 2015)</a>'
+    - text: 'Paper from MICRO 2013 invited for fast-track inclusion in <a href="http://tocs.acm.org">ACM TOCS</a>'
+    - text: 'Paper from MICRO 2012 selected for CACM research highlights'
+    - text: '<a href="http://googleresearch.blogspot.com/2013/06/2013-google-phd-fellowships-5-years-of.html">Google Ph.D. Fellowship in Computer Architecture</a> (2013&ndash;2015)'
+    - text: '<a href="http://www.qualcomm.com/about/research/university-relations/innovation-fellowship/2013">Qualcomm Innovation Fellowship</a> (2013&ndash;2014)'
+    - text: |
+        Paper from MICRO 2012 selected for <a href="https://sites.google.com/site/ieeemicro/call-for-papers/top-picks-2013">IEEE Micro's Top Picks from the Computer Architecture Conferences, 2013</a>
+    - text: 'Best lightning session presentation, <a href="http://www.microsymposia.org/micro45/">MICRO 2012</a>'
+    - text: '<a href="http://www.facebook.com/fellowships">Facebook Ph.D. Fellowship</a> (2012&ndash;2013)'
+    - text: ' University of Washington <a href="http://www.cs.washington.edu/education/grad/current/GradFellowships/Hacherl.html">Hacherl Graduate Fellowship in Computer Science and Engineering</a> (2009&ndash;2010)'
+    - text: 'Hertz Foundation Fellowship Finalist (2009)'
+    - text: |
+        Harvey Mudd College (2009):
+
+        * High Distinction
+        * Honors in Computer Science
+        * Honors in Humanities, Social Sciences, and the Arts
+        * Computer Science Class of &rsquo;94 Award
+        * Computer Science Clinic Award
+        * William and Margaret Radley Prize in Humanities, Social Sciences, and the Arts
+
+teaching:
+    - where: Cornell University
+      classes:
+          - term: Spring 2021
+            number: CS 3410
+            title: Computer System Organization and Programming
+            current: true
+            desc: "This is our department's introduction to architecture and the systems side of the world. I will co-teach with [Anne Bracy](https://www.cs.cornell.edu/~bracy/)."
+          - term: Fall 2020
+            number: CS 6120
+            title: Advanced Compilers
+            link: https://www.cs.cornell.edu/courses/cs6120/2020fa/
+            desc: This is a new and experimental PhD-level course about programming language implementation.
+          - term: Spring 2020
+            number: CS 7491
+            title: The Great ISAs
+            link: https://www.cs.cornell.edu/courses/cs7491/2020sp/
+            desc: This is a new reading seminar on the history of hardware–software abstractions.
+          - term: Fall 2019
+            number: CS 6120
+            title: Advanced Compilers
+            link: https://www.cs.cornell.edu/courses/cs6120/2019fa/
+          - term: Spring 2019
+            number: CS 6110
+            title: Advanced Programming Languages
+            link: https://www.cs.cornell.edu/courses/cs6110/2019sp/
+            desc: 'This is our graduate programming languages course. It is "enjoyed" by PL-oriented and non-PL PhD students alike.'
+          - term: Fall 2018
+            number: CS 4110
+            title: Programming Languages and Logics
+            link: https://www.cs.cornell.edu/Courses/cs4110/2018fa/
+            desc: "This is Cornell's undergraduate programming languages elective. 4110 is full of content you'd expect to find in a graduate PL course."
+          - term: Spring 2018
+            number: CS 6110
+            title: Advanced Programming Languages
+            link: https://www.cs.cornell.edu/courses/cs6110/2018sp/
+          - term: Fall 2017
+            number: CS 2110
+            title: Object-Oriented Programming and Data Structures
+            link: https://www.cs.cornell.edu/courses/cs2110/2017fa/
+            desc: "This the second course in our department's introductory CS sequence. I co-taught with [David Gries](https://www.cs.cornell.edu/gries/) and [Eleanor Birrell](http://www.cs.cornell.edu/~eleanor/)."
+          - term: Spring 2017
+            number: CS 6110
+            title: Advanced Programming Languages
+            link: https://www.cs.cornell.edu/courses/cs6110/2017sp/
+          - term: Fall 2016
+            number: CS 4110
+            title: Programming Languages and Logics
+            link: https://www.cs.cornell.edu/Courses/cs4110/2016fa/
+    - |
+        Teaching Assistant, University of Washington:
+
+        * <a href="http://www.cs.washington.edu/education/courses/csep548/11wi/">CSE PMP 548, Winter 2011</a> (M.S. Computer Architecture), with Luis Ceze
+        * <a href="http://www.cs.washington.edu/education/courses/cse505/12wi/">CSE 505, Winter 2012</a> (Graduate Programming Languages), with Dan Grossman
+        * <a href="http://www.cs.washington.edu/education/courses/cse548/13wi/">CSE 548, Winter 2013</a> (Graduate Computer Architecture), with Mark Oskin
+
+    - |
+        Tutor, University of Washington,
+        2009--2014:
+        CSE 303 (Software Development), 311/312
+        (Foundations of Computing), 322 (Formal
+        Models), 331 (Software Engineering), 332 (Data
+        Structures), 351 (The Hardware/Software
+        Interface)
+
+service:
+    - |
+        Judge, [JOBS workshop](https://jobs.eecs.umich.edu) at MICRO 2020
+
+    - |
+        NSF panel member, [CCF](https://www.nsf.gov/div/index.jsp?org=CCF) division (2020)
+
+    - |
+        ISCA 2021: Publicity & Social Media Chair
+
+    - |
+        [PLMW @ PLDI 2020](https://pldi20.sigplan.org/home/PLMW-PLDI-2020): Co-organizer
+
+    - |
+        ASPLOS 2020: [WACI](https://asplos-conference.org/calls/#waci) co-chair
+
+    - |
+        August 2019: Facilitator, [JUMP e-workshop on domain-specific languages](https://adacenter.org/dsl-workshop)
+
+    - |
+        ISCA 2019: Social Media Chair
+
+    - |
+        PLDI 2018: Publicity Chair
+
+    - |
+        ACM [SIGARCH](https://www.sigarch.org) Social Media Editor (2017--)
+
+    - |
+        PLDI 2017: Publicity Co-Chair
+
+    - |
+        ISCA 2017: Registration Chair
+
+    - |
+        [CGO 2017](http://cgo.org/cgo2017/): Workshops/Tutorials Chair
+
+    - |
+        NSF panel member, [CCF](https://www.nsf.gov/div/index.jsp?org=CCF) division (2016)
+
+    - |
+        Cornell University, Computing and Information Science:
+
+        * 2019 [CIS Summer Talk Series for Undergraduate Researchers](https://capra.cs.cornell.edu/summertalks.html), organizer
+        * Rhodes Hall Renovation Stakeholder Committee: 2018
+
+    - |
+        Cornell University, Computer Science:
+
+        * Department Chair Search Committee: 2020
+        * Ph.D. Admissions Committee: 2015--16, 2016--17, 2017--18, 2018--19, 2019--20, 2020--21
+        * Programming Languages Retreat, Organizer: 2018, 2019
+        * Colloquium Committee: 2017--18
+        * Vision Statement Committee: 2017
+        * Faculty Recruiting Committee: 2016--17
+        * [Programming Languages Discussion Group](http://www.cs.cornell.edu/courses/cs7190/2018fa/), Co-Organizer: 2016--
+        * [Machine Learning Hardware Reading Group](http://www.cs.cornell.edu/courses/cs7190/2018fa/), Organizer: 2017--2018
+
+    - |
+        University of Washington, Computer Science and Engineering:
+
+        * Graduate Admissions Committee, 2013&ndash;2015
+        * Prospective Student Committee Co-Chair, 2011; Member, 2010&ndash;2014
+        * Student Survey Coordinator, 2011
+        * _Mossy Bits_ Creative Arts Journal Editor, 2010--2015
+        * New Graduate Student Mentor, 2010--2015
+
+
+committees:
+    - venue: HPCA
+      year: 2022
+      role: External review committee member
+    - venue: OOPSLA
+      year: 2021
+      role: External review committee member
+    - venue: LATTE
+      year: 2021
+      role: Organizer
+      link: https://capra.cs.cornell.edu/latte21/
+    - venue: YArch
+      year: 2021
+      role: Program committee member
+      link: https://sites.gatech.edu/yarch2021/
+    - venue: ISCA
+      year: 2021
+      role: Program committee member
+    - venue: IEEE Micro Top Picks
+      year: 2021
+      role: Selection committee member
+    - venue: ASPLOS
+      year: 2021
+      role: Program committee member
+    - venue: MICRO
+      year: 2020
+      role: External review committee member
+    - venue: YArch
+      year: 2020
+      role: Program committee member
+      link: https://sites.psu.edu/yarch2020/
+    - venue: OOPSLA
+      year: 2020
+      role: Review committee member
+    - venue: ISCA
+      year: 2020
+      role: External review committee member
+    - venue: PLDI
+      year: 2020
+      role: Program committee member
+    - venue: ASPLOS
+      year: 2020
+      role: Program committee member
+    - venue: ISCA
+      year: 2019
+      role: Program committee member
+    - venue: YArch
+      year: 2019
+      role: Program committee member
+      link: http://sites.psu.edu/yarch2019/
+    - venue: ASPLOS
+      year: 2019
+      role: Program committee member
+    - venue: MICRO
+      year: 2018
+      role: Program committee member
+    - venue: WAX
+      year: 2018
+      link: http://approximate.computer/wax2018/
+      role: Organizer
+    - venue: SELSE
+      year: 2018
+      link: http://www.selse.org
+      role: Program committee member
+    - venue: ISCA
+      year: 2018
+      role: Program committee member
+    - venue: OOPSLA
+      year: 2018
+      role: Program committee member
+    - venue: HPCA
+      year: 2018
+      link: http://hpca2018.ece.ucsb.edu
+      role: External review committee member
+    - venue: ASPLOS
+      year: 2018
+      link: https://www.asplos2018.org
+      role: External review committee member
+    - venue: WAX
+      year: 2017
+      link: http://approximate.computer/wax2017/
+      role: Organizer, program committee member
+    - venue: MICRO
+      year: 2017
+      link: https://www.microarch.org/micro50/
+      role: External review committee member
+    - venue: Onward!
+      year: 2017
+      link: http://conf.researchr.org/home/onward-2017
+      role: Program committee member
+    - venue: ISCA
+      year: 2017
+      link: https://www.sigarch.org/2016/09/08/call-for-papers-isca-2017/
+      role: Program committee member
+    - venue: ASPLOS
+      year: 2017
+      link: http://novel.ict.ac.cn/ASPLOS2017/
+      role: Program committee member
+    - venue: CGO
+      year: 2017
+      link: http://cgo.org/cgo2017/
+      role: Program committee member
+    - venue: MASS
+      year: 2016
+      link: http://www.cs.binghamton.edu/%7Edavidl/mass16.html
+      role: Program committee member
+
+    - |
+         [TinyToCS Vol. 4](http://tinytocs.org): Program committee member
+
+    - venue: WAX
+      year: 2016
+      link: http://approximate.computer/wax2016/
+      role: Organizer, program committee member
+    - venue: SELSE
+      year: 2016
+      link: http://www.selse.org
+      role: Review committee member
+    - venue: ISCA
+      year: 2016
+      link: http://isca2016.eecs.umich.edu
+      role: External review committee member
+    - venue: PLDI
+      year: 2016
+      link: http://conf.researchr.org/home/pldi-2016
+      role: Program committee member
+    - venue: WAX
+      year: 2015
+      link: http://sampa.cs.washington.edu/wax2015/
+      role: Organizer, program committee member
+    - venue: WACAS
+      year: 2014
+      link: http://sampa.cs.washington.edu/wax2015/
+      role: Organizer, program committee member
+
+    - |
+        PLDI 2014: <a href="http://pldi14-aec.cs.brown.edu">Artifact evaluation committee</a> member
+
+    - |
+        OOPSLA 2014: <a href="http://2014.splashcon.org/track/splash2014-artifacts">Artifact evaluation committee</a> member
+
+phdcommittees:
+    -
+        name: Socrates Wong
+        advisor: 'José Martínez'
+    -
+        name: Ariel Kellison
+        advisor: David Bindel
+        link: 'https://ak-2485.github.io'
+    -
+        name: Griffin Berlstein
+        advisor: Nate Foster
+        link: 'https://griffinberlste.in'
+    -
+        name: Shaojie Xiang
+        advisor: Zhiru Zhang
+        link: 'https://www.csl.cornell.edu/~xiangs/'
+    -
+        name: 'Yanghui Ou'
+        advisor: Chris Batten
+    -
+        name: 'A.F. Cooper'
+        advisor: 'Chris De Sa'
+        link: 'https://cacioepe.pe'
+    -
+        name: 'Kevin Negy'
+        advisor: 'Emin Gün Sirer'
+        link: 'https://www.cs.cornell.edu/~kevinnegy/'
+    -
+        name: 'Peitian Pan'
+        advisor: Chris Batten
+    -
+        name: 'Yi Jiang'
+        advisor: José Martínez
+        link: 'https://www.cs.cornell.edu/~yijiang/'
+    -
+        name: 'Yuwei Hu'
+        advisor: Zhiru Zhang
+    -
+        name: 'Lin Cheng'
+        advisor: Chris Batten
+    -
+        name: 'Tuan Ta'
+        advisor: Chris Batten
+        link: 'http://tuanqta.net'
+    -
+        name: 'Yuan Zhou'
+        advisor: Zhiru Zhang
+        link: 'https://zhang.ece.cornell.edu/people/yuan-zhou/'
+    -
+        name: 'Maofan (Ted) Yin'
+        advisor: 'Emin Gün Sirer'
+        link: 'https://www.cs.cornell.edu/~tedyin/'
+    -
+        name: Wil Thomason
+        advisor: Hadas Kress-Gazit
+        link: https://wbthomason.github.io
+    -
+        name: 'Yi-Hsiang (Sean) Lai'
+        advisor: Zhiru Zhang
+        link: http://people.ece.cornell.edu/yl2666/
+    -
+        name: Gai Liu
+        advisor: Zhiru Zhang
+        defense: 2018
+        link: https://sites.google.com/a/cornell.edu/gai/
+    -
+        name: Melanie Kambadur
+        advisor: Martha Kim
+        school: Columbia University
+        defense: 2016
+        link: http://www.cs.columbia.edu/~melanie/
+
+talks:
+    -
+        title: Toward a Predictable System Stack for Reconfigurable Computing
+        where: 'University of California, Santa Cruz Hardware Systems Collective Seminar'
+        link: https://hsc.ucsc.edu/seminar/
+        date: 2020-12-01
+        extra:
+            - '[Video.](https://youtu.be/YueY0UP1aWI)'
+    -
+        title: Graphics Programming Needs You
+        where: 'University of Rochester, CSC 572/292'
+        link: https://www.cs.rochester.edu/courses/572/fall2020/schedule.html
+        date: 2020-11-18
+        extra:
+            - '[Slides.](https://www.cs.rochester.edu/courses/572/fall2020/decks/opengl.pdf)'
+    -
+        title: Toward a Predictable System Stack for Reconfigurable Computing
+        where: HLD Reading Group, Intel
+        date: 2020-10-26
+    -
+        title: Languages and Compilers for Accelerator Design
+        where: University of Massachusetts Amherst
+        link: https://systems-lunch.org/#october-2-2020
+        date: 2020-10-02
+        extra:
+            - '[Video.](https://youtu.be/xMsZYKHRgk4)'
+    -
+        title: '“Ask Me Anything” with Margaret Martonosi'
+        notitle: true
+        where: 'PLDI 200'
+        link: 'https://pldi20.sigplan.org/details/pldi-2020-ask-me-anything/6/-Ask-Me-Anything-with-Margaret-Martonosi'
+        date: 2020-06-17
+        extra:
+            - '[Video.](https://youtu.be/ig5xmWoyo_I)'
+    -
+        title: 'Predictable Accelerator Design'
+        where: 'CHIPKIT Tutorial on Agile Research Test Chips at ISCA 2020'
+        date: 2020-05-31
+        link: 'https://mrc-donato.github.io/CHIPKIT-Tutorial/'
+        extra:
+            - '[Video.](https://vod.video.cornell.edu/media/CHIPKITA+Predictable+Accelerator+Design/1_abyr0ukw)'
+    -
+        title: 'Accelerator Design Languages'
+        where: 'University of Wisconsin–Madison, Computer Sciences Department'
+        date: 2020-05-22
+        link: 'https://madpl.cs.wisc.edu/pl-seminar/20200522-adrian_sampson/'
+        extra:
+            - '[Video.](https://youtu.be/6gX21ruBRaw)'
+    -
+        title: 'Predictable Accelerator Design'
+        where: 'UCLA Center for Domain-Specific Computing'
+        date: 2020-02-28
+        link: 'https://cdsc.ucla.edu/all-events/'
+    -
+        title: 'Reconfigurability Through a Language Lens'
+        where: 'Facebook Boston'
+        date: 2020-02-03
+    -
+        title: 'Panel: How to Apply to Graduate School'
+        notitle: true
+        where: 'Cornell, Maryland, Max Planck Pre-Doctoral Research School 2019'
+        date: 2019-08-09
+        link: 'https://cmmrs.mpi-sws.org/program/'
+    -
+        title: 'Designing Programming Languages for Heterogeneous Hardware'
+        where: 'Cornell, Maryland, Max Planck Pre-Doctoral Research School 2019'
+        date: 2019-08-06
+        link: 'https://cmmrs.mpi-sws.org/lectures/'
+
+    -
+        title: 'Panel: Charting Your Path'
+        notitle: true
+        where: 'Programming Languages Mentoring Workshop at PLDI 2019'
+        date: 2019-06-23
+        link: 'https://pldi19.sigplan.org/home/PLMW-PLDI-2019'
+    -
+        title: 'Designing Languages for Designing Hardware'
+        where: 'Programming Languages Mentoring Workshop at PLDI 2019'
+        date: 2019-06-23
+        link: 'https://pldi19.sigplan.org/home/PLMW-PLDI-2019'
+        extra:
+            - '[Slides.](https://www.cs.cornell.edu/~asampson/media/plmw2019.pdf)'
+            - '[Video.](https://youtu.be/c4twmx8tZw4)'
+    -
+        title: 'FPGAs Have the Wrong Abstraction'
+        where: 'Open mic night at FCRC 2019'
+        date: 2019-06-22
+        extra:
+            - '[Slides.](https://www.cs.cornell.edu/~asampson/media/fpga-openmic.pdf)'
+            - '[Notes.](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html)'
+    -
+        title: 'Designing Custom Hardware Accelerators with Types'
+        where: 'Colloquium, Department of Computer Science, Williams College'
+        date: 2019-04-05
+        link: 'https://events.williams.edu/event/computer-science-colloquium-designing-custom-hardware-accelerators-with-types/'
+    -
+        title: 'Designing Systems with Types'
+        where: 'Colloquium, School of Arts, Media + Engineering, Arizona State University'
+        link: 'https://artsmediaengineering.asu.edu/events/designing-systems-types-adrian-sampson-0'
+        date: 2019-02-14
+        extra:
+            - '[Video.](https://vimeo.com/322092403)'
+    -
+        title: "Approximate Computing Is Dead; Long Live Approximate Computing"
+        where: "[Workshop on Negative Outcomes, Post-Mortems, and Experiences (NOPE)](http://nope.pub/2017/), at MICRO 2017"
+        date: 2017-10-14
+        extra:
+            - '[Notes.](https://www.cs.cornell.edu/~asampson/blog/closedproblems.html)'
+    -
+        title: "Probabilistic Programming"
+        where: "Schloss Dagstuhl, [Seminar 15491: Approximate and Probabilistic Computing: Design, Coding, Verification](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15491)"
+        date: 2015-12-01
+        extra:
+            - '[Notes.](http://adriansampson.net/doc/ppl.html)'

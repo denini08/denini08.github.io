@@ -14,13 +14,14 @@ nav: true
 *  To make it work you first have to assign the data to a new string
 *  called `sorted`.
 *
-{% endcomment %}
 <ul>
     {% assign sorted = site.collection_name | sort: 'date' | reverse %}
     {% for item in sorted %}
     <li>{{ item.title }}</li>
     {% endfor %}
-</ul> -->
+</ul> 
+{% endcomment %}
+-->
 
 		  <h3>Current</h3>
 		  <ul>
