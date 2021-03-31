@@ -65,6 +65,7 @@ nav: false
 
 *   [Tutorials Chair](http://splc2021.net/call-for-papers/call-for-tutorial-proposals) (with [Mónica Pinto](http://www.lcc.uma.es/~pinto/)), [International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/call-for-papers/call-for-tutorial-proposals)
 *   [PC Member, International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/committees/program-committees)
+*   [PC Member, ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://conf.researchr.org/home/gpce-2021)
 *   [PC Member, International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2021.fh-krems.ac.at/organisation/)
 *   [PC Member, ACM/IEEE International Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/icse-2021/ast-2021)
 *   [PC Member, Tool Demos Track of the IEEE International Conference on Software Testing, Verification and Validation 2021 (ICST)](https://icst2021.icmc.usp.br/track/icst-2021-Tools-Demo-Track)
