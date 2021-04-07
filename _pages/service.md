@@ -68,16 +68,22 @@ nav: true
 *   [PC Member, ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://conf.researchr.org/home/gpce-2021)
 *   [PC Member, International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2021.fh-krems.ac.at/organisation/)
 *   [PC Member, ACM/IEEE International Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/icse-2021/ast-2021)
+*   [PC Member, International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution)](https://sites.google.com/view/varivolution2021)
 *   [PC Member, Tool Demos Track of the IEEE International Conference on Software Testing, Verification and Validation 2021 (ICST)](https://icst2021.icmc.usp.br/track/icst-2021-Tools-Demo-Track)
+*   [PC Member, Brazilian Symposium on Software Engineering (SBES)](http://cbsoft2021.joinville.udesc.br/sbes-pesquisa.php)
+*   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](http://cbsoft2021.joinville.udesc.br/sbcars.php)
+*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](#)
+*   [PC Member, Undergraduate Research on Software Engineering Competition (CTIC-ES)](http://cbsoft2021.joinville.udesc.br/index.php)
 
 ### 2020
 
 *   [PC Member, International Systems and Software Product Line Conference (SPLC)](http://splc2020.net/program-committees/)
     *   Best Reviewer Award
 *   [PC Member, International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2020.dbse.iti.cs.ovgu.de/)
+*   [PC Member, International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution)](https://sites.google.com/view/varivolution2020)
 *   [PC Member, Brazilian Symposium on Software Engineering (SBES)](http://cbsoft2020.imd.ufrn.br/sbes-pesquisa.php)
 *   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](http://cbsoft2020.imd.ufrn.br/sbcars.php)
-*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://www.ime.usp.br/~sbmf2019/organisation/)
+*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)]()
 *   [PC Member, Undergraduate Research on Software Engineering Competition (CTIC-ES)](http://cbsoft2020.imd.ufrn.br/sbes-ctic.php)
 *   [PC Member, Workshop on Theses and Dissertations @CBSoft (WTDSoft)](http://cbsoft2020.imd.ufrn.br/wtdsoft.php)
 *   [AEC Member, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/track/issta-2020/issta-2020-artifact-evaluation)
