@@ -64,6 +64,7 @@ nav: true
 ### 2021
 
 *   [Tutorials Chair](http://splc2021.net/call-for-papers/call-for-tutorial-proposals) (with [Mónica Pinto](http://www.lcc.uma.es/~pinto/)), [International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/call-for-papers/call-for-tutorial-proposals)
+*   [Guest Editor, EMSE Special Issue on "Software Product Lines and Variability-rich Systems"](https://emsejournal.github.io/special_issues/2021_Software_Product_Lines_and_Variability-rich_Systems)
 *   [PC Member, International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/committees/program-committees)
 *   [PC Member, ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://conf.researchr.org/home/gpce-2021)
 *   [PC Member, International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2021.fh-krems.ac.at/organisation/)
@@ -72,8 +73,10 @@ nav: true
 *   [PC Member, Tool Demos Track of the IEEE International Conference on Software Testing, Verification and Validation 2021 (ICST)](https://icst2021.icmc.usp.br/track/icst-2021-Tools-Demo-Track)
 *   [PC Member, Brazilian Symposium on Software Engineering (SBES)](http://cbsoft2021.joinville.udesc.br/sbes-pesquisa.php)
 *   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](http://cbsoft2021.joinville.udesc.br/sbcars.php)
-*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](#)
+*   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://sites.google.com/computacao.ufcg.edu.br/sbmf2021/)
 *   [PC Member, Undergraduate Research on Software Engineering Competition (CTIC-ES)](http://cbsoft2021.joinville.udesc.br/index.php)
+*   [Reviewer, Science of Computer Programming (SCP)](https://www.journals.elsevier.com/science-of-computer-programming)
+*   [Reviewer, Theoretical Computer Science (TCS)](https://www.journals.elsevier.com/theoretical-computer-science)
 
 ### 2020
 
