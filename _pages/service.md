@@ -64,7 +64,7 @@ nav: true
 ### 2021
 
 *   [Tutorials Chair](http://splc2021.net/call-for-papers/call-for-tutorial-proposals) (with [Mónica Pinto](http://www.lcc.uma.es/~pinto/)), [International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/call-for-papers/call-for-tutorial-proposals)
-*   [Guest Editor, EMSE Special Issue on "Software Product Lines and Variability-rich Systems"](https://emsejournal.github.io/special_issues/2021_Software_Product_Lines_and_Variability-rich_Systems)
+*   [Guest Editor](https://splc2020.net/call-for-papers/call-for-empirical-software-engineering-special-issue/) (with [Christoph Seidl](https://pure.itu.dk/portal/da/persons/christoph-seidl(fda8c630-1b0a-4910-ae2a-602850616275).html), [Sarah Nadi](https://sarahnadi.org/), and [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/node/1)), [EMSE Special Issue on "Software Product Lines and Variability-rich Systems"](https://emsejournal.github.io/special_issues/2021_Software_Product_Lines_and_Variability-rich_Systems)
 *   [PC Member, International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/committees/program-committees)
 *   [PC Member, ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE)](https://conf.researchr.org/home/gpce-2021)
 *   [PC Member, International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)](https://vamos2021.fh-krems.ac.at/organisation/)
