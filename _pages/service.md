@@ -65,6 +65,10 @@ nav: true
 
 *   [Conference Chair, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)](https://www.esec-fse.org)
 
+### 2022
+
+*   [PC Member, ACM/IEEE International Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/ast-2022)
+
 ### 2021
 
 *   [Tutorials Chair](http://splc2021.net/call-for-papers/call-for-tutorial-proposals) (with [Mónica Pinto](http://www.lcc.uma.es/~pinto/)), [International Systems and Software Product Line Conference (SPLC)](http://splc2021.net/call-for-papers/call-for-tutorial-proposals)
@@ -79,6 +83,7 @@ nav: true
 *   [PC Member, Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)](http://cbsoft2021.joinville.udesc.br/sbcars.php)
 *   [PC Member, Brazilian Symposium on Formal Methods (SBMF)](https://sites.google.com/computacao.ufcg.edu.br/sbmf2021/)
 *   [PC Member, Undergraduate Research on Software Engineering Competition (CTIC-ES)](http://cbsoft2021.joinville.udesc.br/index.php)
+*   [Reviewer, Information and Software Technology (IST)](https://www.journals.elsevier.com/information-and-software-technology)
 *   [Reviewer, Science of Computer Programming (SCP)](https://www.journals.elsevier.com/science-of-computer-programming)
 *   [Reviewer, Theoretical Computer Science (TCS)](https://www.journals.elsevier.com/theoretical-computer-science)
 
