@@ -8,7 +8,7 @@ profile:
   align: right
   image: lmt.jpeg
   address: >
-    <p>Room 2.15 @ Campus E1 1</p>
+    <p>Room 2.15@Campus E1.1</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
