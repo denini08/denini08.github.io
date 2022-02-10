@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: [CAPES](https://www.gov.br/capes/pt-br)-[Alexander von Humboldt](https://www.humboldt-foundation.de/) Experienced Research Fellow at *[Universität des Saarlandes](https://www.uni-saarland.de/start.html)*.
+description: CAPES-Alexander von Humboldt Experienced Research Fellow at Universität des Saarlandes.
 
 profile:
   align: right
