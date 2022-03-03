@@ -6,7 +6,7 @@ description: CAPES-Alexander von Humboldt Experienced Research Fellow at Univers
 
 profile:
   align: right
-  image: lmt.jpeg
+  image: lmt.jpg
   address: >
     <p>Room 2.15@Campus E1.1</p>
 
