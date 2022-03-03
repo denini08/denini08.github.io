@@ -70,6 +70,8 @@ nav: true
 *   [PC Member, ACM International Systems and Software Product Line Conference (SPLC)](https://2022.splc.net/committees/program-committees/)
 *   [PC Member, ACM/IEEE International Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/ast-2022)
 *   [PC Member, Workshop on Formal Techniques for Java-like Programs (FTfJP)](https://2022.ecoop.org/track/ftfjp-2022)
+*   [Reviewer, Information and Software Technology (IST)](https://www.journals.elsevier.com/information-and-software-technology)
+*   [Reviewer, Journal of Systems and Software (JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software/)
 
 ### 2021
 
