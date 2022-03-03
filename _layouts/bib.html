@@ -69,7 +69,7 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>{% if entry.volume %}, volume {{entry.volume}}{% endif %}{% if entry.number %}, {{entry.number}}{% endif %}{% if entry.pages %}, pages {{entry.pages}}{% endif %}
+        <em>{{entry.journal}}</em>{% if entry.volume %}, volume {{entry.volume}}{% endif %}{% if entry.number %}, {{entry.number}}{% endif %}{% if entry.pages %}, pages {{entry.pages}}{% endif %}, {{entry.year}}
       {% elsif entry.type == "inproceedings" %}
         <em>{{entry.booktitle}}</em> 
         {% if entry.acronym %}
