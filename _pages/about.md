@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student focused on Software Engineering at CIn UFPE.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ Hi! My name is Denini, I’m 23 years old and passionate about computing, more s
 
 I'm currently a PhD student in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/). I'm interested in software engineering, programming language, testing and software development. 
 
-I'm researching in the software testing area, focused on the Android environment.
+My current research is in the area of software testing, focusing on the Android environment. But I've participated in projects on test parallelism, automated error repair and code instrumentation.
