@@ -9,7 +9,7 @@ profile:
   image: prof_pic2.jpeg
   address: >
     <p>CIn, UFPE</p>
-    <p>Lagoa dos Gatos, PE, Brazil</p>
+    <p>Recife, PE, Brazil</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
