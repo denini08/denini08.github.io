@@ -1,18 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"d'Amorim": 
+  - firstname: ["Marcelo", "M."]
+    url: https://www.cin.ufpe.br/~damorim/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Miranda":
+  - firstname: ["Breno", "B."]
+    url: https://cin.ufpe.br/~bafm/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Henkel":
+  - firstname: ["Jordan", "J."]
+    url: https://pages.cs.wisc.edu/~jjhenkel/
+    
+"Reps":
+  - firstname: ["Thomas", "T.", "T. W.", "Thomas W."]
+    url: http://pages.cs.wisc.edu/~reps/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Teixeira":
+  - firstname: ["Leopoldo", "L."]
+    url: https://cin.ufpe.br/~lmt/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
