@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /cv/
 subtitle: PhD Student focused on Software Engineering at CIn UFPE.
 
 profile:
