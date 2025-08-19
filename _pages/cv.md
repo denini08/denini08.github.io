@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: cv
-description: CV.
 nav: true
-redirect: /assets/pdf/CV_Denini.pdf
+nav_order: 5
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---

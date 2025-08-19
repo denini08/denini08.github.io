@@ -7,14 +7,16 @@ subtitle: PhD Student focused on Software Engineering at CIn UFPE.
 profile:
   align: right
   image: prof_pic2.jpeg
-  address: >
+  image_circular: false # crops the image to make it circular
+  more_info: >
     <p>CIn, UFPE</p>
     <p>Recife, PE, Brazil.</p>
-
-news: true  # includes a list of news items
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
+social: true # includes social icons at the bottom of the page
+
+
 
 Hi! My name is Denini, I’m 23 years old and passionate about computing, more specifically to programming languages and software test. In 2020, I decided to embark in the research area. Between 2020 and the beginning of 2022 I did my master’s degree, as soon as I finished my master’s I started to a PhD (first in the selection process).
 
