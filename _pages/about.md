@@ -10,6 +10,7 @@ align: right
 image: prof_pic2.jpeg
 image_circular: false # crops the image to make it circular
 more_info: >
+
 <p>CIn, UFPE</p>
 <p>Recife, PE, Brazil.</p>
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
