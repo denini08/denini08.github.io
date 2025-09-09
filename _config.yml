@@ -20,7 +20,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 url: https://denini08.github.io # the base hostname & protocol for your site
 baseurl: /cv/ # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true
 
 # -----------------------------------------------------------------------------
@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Denini  # your blog must have a name for it to show up in the nav bar
+blog_name: Denini # your blog must have a name for it to show up in the nav bar
 blog_description: telling my story and learnings
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -160,7 +160,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
- # disqus_shortname: al-folio # put your disqus shortname (removed duplicate)
+# disqus_shortname: al-folio # put your disqus shortname (removed duplicate)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
