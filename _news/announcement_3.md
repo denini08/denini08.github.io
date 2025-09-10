@@ -5,4 +5,8 @@ inline: true
 related_posts: false
 ---
 
-Defended my dissertation, now I'm officially a Master, the title of my dissertation was "Using Noise to Detect Test Flakiness". I am grateful to my supervisor and co-supervisor for their support and also to the evaluation committee for their feedback.
+I have officially defended my master’s dissertation and can now say I’m a Master in Computer Science! 🎓
+
+---
+
+The title of my dissertation was _“Using Noise to Detect Test Flakiness”_. I am deeply grateful to my supervisor and co-supervisor for their guidance and support, as well as to the evaluation committee for their valuable feedback throughout this process.
