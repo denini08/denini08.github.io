@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at CIn UFPE.
+subtitle: PhD Student at CIn UFPE. Assistant Professor at UPE.
 
 profile:
   align: right
