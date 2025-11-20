@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student focused on Software Engineering at CIn UFPE.
+subtitle: PhD Student at CIn UFPE.
 
 profile:
   align: right
