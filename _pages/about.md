@@ -6,7 +6,7 @@ subtitle: PhD Student at CIn UFPE.
 
 profile:
   align: right
-  image: prof_pic2.jpeg
+  image: prof_pic3.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>CIn, UFPE</p>
