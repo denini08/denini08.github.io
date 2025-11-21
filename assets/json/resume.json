@@ -1,157 +1,124 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Denini Gabriel Silva",
+    "label": "PhD Student & Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "PhD candidate in Computer Science at UFPE, specializing in software testing and flaky test detection. Assistant Professor at UPE with expertise in software engineering and programming languages.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Recife",
+      "countryCode": "BR",
+      "region": "Pernambuco"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Pernambuco (UPE)",
+      "position": "Assistant Professor",
+      "url": "https://www.upe.br/",
+      "startDate": "2025-10-01",
+      "endDate": "",
+      "summary": "Teaching courses in Software Engineering and Information Systems. Contributing to the education of future technology professionals.",
+      "highlights": ["Software Engineering", "Information Systems", "Academic Research"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Federal University of Pernambuco (UFPE)",
+      "location": "Recife, PE, Brazil",
+      "url": "https://www.ufpe.br/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Software Testing", "Flaky Test Detection", "Software Engineering"]
+    },
+    {
+      "institution": "Federal University of Pernambuco (UFPE)",
+      "location": "Recife, PE, Brazil",
+      "url": "https://www.ufpe.br/",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2020-01-01",
+      "endDate": "2022-02-20",
+      "score": "",
+      "courses": ["Using Noise to Detect Test Flakiness"]
+    },
+    {
+      "institution": "University of Pernambuco (UPE)",
+      "location": "Recife, PE, Brazil",
+      "url": "https://www.upe.br/",
+      "area": "Information Systems",
+      "studyType": "Bachelor's",
+      "startDate": "2016-02-01",
+      "endDate": "2019-12-05",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "PhD Program Admission - First Place",
+      "date": "2022-03-01",
+      "awarder": "Federal University of Pernambuco (UFPE)",
+      "url": "",
+      "summary": "Approved in first place in the PhD selection process at CIn-UFPE with research proposal titled 'Finding Bugs Using Natural Language Processing'."
+    },
+    {
+      "title": "PhD Qualification Exam",
+      "date": "2025-02-28",
+      "awarder": "Federal University of Pernambuco (UFPE)",
+      "url": "",
+      "summary": "Successfully passed the PhD qualification exam with research focused on flaky tests and software reliability."
+    },
+    {
+      "title": "Assistant Professor Position",
+      "date": "2025-07-15",
+      "awarder": "University of Pernambuco (UPE)",
+      "url": "",
+      "summary": "Approved in public selection process for Assistant Professor position at UPE."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Using Noise to Detect Test Flakiness",
+      "publisher": "Master's Dissertation - UFPE",
+      "releaseDate": "2022-02-20",
+      "url": "",
+      "summary": "Master's dissertation focusing on using noise injection techniques to identify and detect flaky tests in software systems."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Software Engineering",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Software Development", "Programming Languages", "Software Architecture", "Code Quality", "Software Design"]
+    },
+    {
+      "name": "Test Engineering",
+      "level": "Expert",
+      "icon": "fa-solid fa-vial",
+      "keywords": ["Software Testing", "Flaky Test Detection", "Test Reliability", "Test Automation", "Quality Assurance"]
+    },
+    {
+      "name": "Research",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microscope",
+      "keywords": ["Academic Research", "Natural Language Processing", "Bug Detection", "Software Analysis"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +130,39 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Software Engineering",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Software Testing", "Programming Languages", "Software Development"]
+    },
+    {
+      "name": "Research",
+      "icon": "fa-solid fa-flask",
+      "keywords": ["Flaky Tests", "Test Reliability", "Natural Language Processing", "Bug Detection"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Dr. Marcelo d'Amorim",
+      "icon": "fa-solid fa-graduation-cap",
+      "reference": "PhD supervisor at CIn UFPE, expert in software engineering and programming languages."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Flaky Test Detection Research",
+      "summary": "PhD research focused on identifying and analyzing flaky tests in software systems, improving test reliability and developer productivity.",
+      "highlights": ["Test Flakiness", "Software Reliability", "Test Analysis"],
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Using Noise to Detect Test Flakiness",
+      "summary": "Master's research project that developed techniques for using noise injection to identify flaky tests in software testing suites.",
+      "highlights": ["Noise Injection", "Test Detection", "Software Testing"],
+      "startDate": "2020-02-01",
+      "endDate": "2022-02-20",
+      "url": ""
     }
   ]
 }

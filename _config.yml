@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -91,7 +90,7 @@ instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+lattes_id: 2453726460754742 # your ID on Lattes (Brazilian Lattes CV)
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
