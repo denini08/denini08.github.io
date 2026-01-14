@@ -22,7 +22,6 @@
       "position": "Assistant Professor",
       "url": "https://www.upe.br/",
       "startDate": "2025-10-01",
-      "endDate": "",
       "summary": "Teaching courses in Software Engineering and Information Systems. Contributing to the education of future technology professionals.",
       "highlights": ["Software Engineering", "Information Systems", "Academic Research"]
     }
@@ -36,7 +35,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2022-03-01",
-      "endDate": "",
+      "endDate": "2026-03-01",
       "score": "",
       "courses": ["Software Testing", "Flaky Test Detection", "Software Engineering"]
     },
@@ -94,6 +93,85 @@
       "releaseDate": "2022-02-20",
       "url": "",
       "summary": "Master's dissertation focusing on using noise injection techniques to identify and detect flaky tests in software systems."
+    },
+    {
+      "name": "The effects of computational resources on flaky tests",
+      "publisher": "IEEE Transactions on Software Engineering (TSE)",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1109/TSE.2024.3462251",
+      "summary": "Investigates how computational resources influence flaky tests, providing empirical evidence and guidance to improve test reliability.",
+      "authors": [
+        "Silva, Denini",
+        "Gruber, Martin",
+        "Gokhale, Satyajit",
+        "Arteca, Ellen",
+        "Turcotte, Alexi",
+        "d'Amorim, Marcelo",
+        "Lam, Wing",
+        "Winter, Stefan",
+        "Bell, Jonathan"
+      ],
+      "pdf": "https://www.computer.org/csdl/journal/ts/2024/12/10682606/20lmmu35LLq",
+      "doi": "10.1109/TSE.2024.3462251",
+      "type": "article"
+    },
+    {
+      "name": "Shaker: a Tool for Detecting More Flaky Tests Faster",
+      "publisher": "IEEE/ACM International Conference on Automated Software Engineering (ASE) — Tool Demonstrations",
+      "releaseDate": "2021-11-01",
+      "url": "https://doi.org/10.1109/ASE51524.2021.9678918",
+      "summary": "Presents Shaker, a tool that accelerates and improves detection of flaky tests in practice.",
+      "authors": ["Marcello Cordeiro", "Denini Silva", "Leopoldo Teixeira", "Breno Miranda", "Marcelo d'Amorim"],
+      "pdf": "https://damorim.github.io/publications/Cordeiro_ETAL_ASETD2021.pdf",
+      "doi": "10.1109/ASE51524.2021.9678918",
+      "type": "inproceedings",
+      "resources": {
+        "video": "https://youtu.be/7-aiQwOb4rA",
+        "code": "https://star-rg.github.io/shaker"
+      }
+    },
+    {
+      "name": "Soundy Automated Parallelization of Test Execution",
+      "publisher": "IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+      "releaseDate": "2021-01-01",
+      "url": "https://doi.org/10.1109/ICSME52107.2021.00034",
+      "summary": "Introduces techniques for safely parallelizing test execution to reduce time while preserving reliability.",
+      "authors": ["Mondal, Shouvick", "Silva, Denini", "d'Amorim, Marcelo"],
+      "pdf": "https://damorim.github.io/publications/MondalETAL_ICSME21.pdf",
+      "doi": "10.1109/ICSME52107.2021.00034",
+      "type": "inproceedings",
+      "resources": {
+        "code": "https://github.com/STAR-RG/paste"
+      }
+    },
+    {
+      "name": "Shipwright: A Human-in-the-Loop System for Dockerfile Repair",
+      "publisher": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+      "releaseDate": "2021-05-01",
+      "url": "https://arxiv.org/abs/2103.02591",
+      "summary": "Proposes Shipwright, a human-in-the-loop approach for repairing Dockerfiles, combining automation with developer input.",
+      "authors": ["Jordan Henkel", "Denini Silva", "Leopoldo Teixeira", "Marcelo d'Amorim", "Thomas W. Reps"],
+      "pdf": "https://damorim.github.io/publications/Henkel_ETAL_ICSE21.pdf",
+      "type": "inproceedings",
+      "resources": {
+        "code": "https://github.com/STAR-RG/shipwright",
+        "venue": "https://conf.researchr.org/home/icse-2021"
+      }
+    },
+    {
+      "name": "Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker",
+      "publisher": "IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+      "releaseDate": "2020-09-01",
+      "url": "https://doi.org/10.1109/ICSME46990.2020.00037",
+      "summary": "Describes Shaker, a technique and tooling for detecting concurrency-induced flaky tests.",
+      "authors": ["Denini Silva", "Leopoldo Teixeira", "Marcelo d'Amorim"],
+      "pdf": "https://damorim.github.io/publications/Silva_ETAL_ICSME20.pdf",
+      "doi": "10.1109/ICSME46990.2020.00037",
+      "type": "inproceedings",
+      "resources": {
+        "video": "https://www.youtube.com/watch?v=rDodt9e8Jcg",
+        "venue": "https://icsme2020.github.io/"
+      }
     }
   ],
   "skills": [
