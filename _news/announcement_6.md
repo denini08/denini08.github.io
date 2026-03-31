@@ -9,8 +9,6 @@ Exciting news: I officially started working as **Assistant Professor at the Univ
 
 ---
 
-In October 2025, I began my journey as **Assistant Professor** at UPE, teaching courses in **Software Engineering** and **Information Systems**.
+In October 2025, I started as **Assistant Professor** at UPE, teaching **Software Engineering** and **Information Systems**.
 
-This is a particularly meaningful moment for me, as I had the honor of completing my undergraduate studies at UPE. Returning to this institution as a faculty member fills me with immense joy and gratitude. It represents a full circle in my academic journey - from student to professor at the same university that shaped my foundation in computer science.
-
-I'm excited to contribute to the education of future technology professionals and to continue the tradition of excellence that UPE has maintained over the years. Being able to give back to the institution that played such an important role in my academic formation is truly a privilege.
+This feels especially meaningful since I did my undergraduate studies at UPE. I'm happy to be here and looking forward to what's ahead.
