@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Computer Science at CIn UFPE. Assistant Professor at UPE.
+subtitle: Ph.D. in Computer Science (CIn UFPE). Assistant Professor at UPE.
 
 profile:
   align: right

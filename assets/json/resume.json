@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Denini Gabriel Silva",
-    "label": "PhD Student & Assistant Professor",
+    "label": "Ph.D. & Assistant Professor",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "PhD candidate in Computer Science at UFPE, specializing in software testing and flaky test detection. Assistant Professor at UPE with expertise in software engineering and programming languages.",
+    "summary": "Ph.D. in Computer Science from UFPE, specializing in software testing and flaky test detection. Assistant Professor at UPE with expertise in software engineering and programming languages.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,7 +35,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2022-03-01",
-      "endDate": "2026-03-01",
+      "endDate": "2026-03-25",
       "score": "",
       "courses": ["Software Testing", "Flaky Test Detection", "Software Engineering"]
     },
@@ -87,6 +87,37 @@
   ],
   "certificates": [],
   "publications": [
+    {
+      "name": "PyMOP: A Runtime Verification Tool for Python",
+      "publisher": "ACM International Conference on the Foundations of Software Engineering — Tool Demonstrations (FSE)",
+      "releaseDate": "2026-07-01",
+      "url": "https://damorim.github.io/publications/Shen_ETAL_FSE26DEMO.pdf",
+      "summary": "Presents PyMOP, a runtime verification tool for Python that monitors program behavior against formal specifications.",
+      "authors": [
+        "Zhuohang Shen",
+        "Mohammed Yaseen",
+        "Kevin Guan",
+        "Denini Silva",
+        "Marcelo d'Amorim",
+        "Owolabi Legunsen"
+      ],
+      "pdf": "https://damorim.github.io/publications/Shen_ETAL_FSE26DEMO.pdf",
+      "type": "inproceedings"
+    },
+    {
+      "name": "An Empirical Analysis of Cross-OS Portability Issues in Python Projects",
+      "publisher": "International Conference on Mining Software Repositories (MSR)",
+      "releaseDate": "2026-04-01",
+      "url": "https://damorim.github.io/publications/Silva_ETAL_MSR26.pdf",
+      "summary": "Empirical study investigating cross-OS portability issues in Python projects, identifying common causes and patterns.",
+      "authors": [
+        "Denini Silva",
+        "MohamadAli Farahat",
+        "Marcelo d'Amorim"
+      ],
+      "pdf": "https://damorim.github.io/publications/Silva_ETAL_MSR26.pdf",
+      "type": "inproceedings"
+    },
     {
       "name": "Using Noise to Detect Test Flakiness",
       "publisher": "Master's Dissertation - UFPE",
@@ -231,8 +262,8 @@
       "summary": "PhD research focused on identifying and analyzing flaky tests in software systems, improving test reliability and developer productivity.",
       "highlights": ["Test Flakiness", "Software Reliability", "Test Analysis"],
       "startDate": "2022-03-01",
-      "endDate": "",
-      "url": ""
+      "endDate": "2026-03-25",
+      "url": "https://doi.org/10.1109/TSE.2024.3462251"
     },
     {
       "name": "Using Noise to Detect Test Flakiness",
