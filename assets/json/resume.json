@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Denini Gabriel Silva",
-    "label": "Ph.D. & Assistant Professor",
+    "label": "Ph.D. & Adjunct Professor",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Ph.D. in Computer Science from UFPE, specializing in software testing and flaky test detection. Assistant Professor at UPE with expertise in software engineering and programming languages.",
+    "summary": "Ph.D. in Computer Science from UFPE, specializing in software testing and flaky test detection. Adjunct Professor at UFRPE with expertise in software engineering and programming languages.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,11 +18,20 @@
   },
   "work": [
     {
+      "name": "Federal Rural University of Pernambuco (UFRPE)",
+      "position": "Adjunct Professor",
+      "url": "https://www.ufrpe.br/",
+      "startDate": "2026-07-01",
+      "summary": "Teaching and research in the area of Computer Science — Theory of Computation and Compilers.",
+      "highlights": ["Theory of Computation", "Compilers", "Academic Research"]
+    },
+    {
       "name": "University of Pernambuco (UPE)",
       "position": "Assistant Professor",
       "url": "https://www.upe.br/",
       "startDate": "2025-10-01",
-      "summary": "Teaching courses in Software Engineering and Information Systems. Contributing to the education of future technology professionals.",
+      "endDate": "2026-07-01",
+      "summary": "Taught courses in Software Engineering and Information Systems. Contributed to the education of future technology professionals.",
       "highlights": ["Software Engineering", "Information Systems", "Academic Research"]
     }
   ],
@@ -76,6 +85,13 @@
       "awarder": "Federal University of Pernambuco (UFPE)",
       "url": "",
       "summary": "Successfully passed the PhD qualification exam with research focused on flaky tests and software reliability."
+    },
+    {
+      "title": "Adjunct Professor Position",
+      "date": "2026-03-23",
+      "awarder": "Federal Rural University of Pernambuco (UFRPE)",
+      "url": "",
+      "summary": "Approved in public selection process for Adjunct Professor position at UFRPE, in the area of Computer Science — Theory of Computation and Compilers."
     },
     {
       "title": "Assistant Professor Position",
