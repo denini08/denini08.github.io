@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Denini Gabriel Silva",
-    "label": "Ph.D. & Adjunct Professor",
+    "label": "Ph.D. & Assistant Professor",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Ph.D. in Computer Science from UFPE, specializing in software testing and flaky test detection. Adjunct Professor at UFRPE with expertise in software engineering and programming languages.",
+    "summary": "Ph.D. in Computer Science from UFPE, specializing in software testing and flaky test detection. Assistant Professor at UFRPE with expertise in software engineering and programming languages.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,7 +19,7 @@
   "work": [
     {
       "name": "Federal Rural University of Pernambuco (UFRPE)",
-      "position": "Adjunct Professor",
+      "position": "Assistant Professor",
       "url": "https://www.ufrpe.br/",
       "startDate": "2026-07-01",
       "summary": "Teaching and research in the area of Computer Science — Theory of Computation and Compilers.",
@@ -87,11 +87,11 @@
       "summary": "Successfully passed the PhD qualification exam with research focused on flaky tests and software reliability."
     },
     {
-      "title": "Adjunct Professor Position",
+      "title": "Assistant Professor Position",
       "date": "2026-03-23",
       "awarder": "Federal Rural University of Pernambuco (UFRPE)",
       "url": "",
-      "summary": "Approved in public selection process for Adjunct Professor position at UFRPE, in the area of Computer Science — Theory of Computation and Compilers."
+      "summary": "Approved in public selection process for Assistant Professor position at UFRPE, in the area of Computer Science — Theory of Computation and Compilers."
     },
     {
       "title": "Assistant Professor Position",
@@ -109,14 +109,7 @@
       "releaseDate": "2026-07-01",
       "url": "https://damorim.github.io/publications/Shen_ETAL_FSE26DEMO.pdf",
       "summary": "Presents PyMOP, a runtime verification tool for Python that monitors program behavior against formal specifications.",
-      "authors": [
-        "Zhuohang Shen",
-        "Mohammed Yaseen",
-        "Kevin Guan",
-        "Denini Silva",
-        "Marcelo d'Amorim",
-        "Owolabi Legunsen"
-      ],
+      "authors": ["Zhuohang Shen", "Mohammed Yaseen", "Kevin Guan", "Denini Silva", "Marcelo d'Amorim", "Owolabi Legunsen"],
       "pdf": "https://damorim.github.io/publications/Shen_ETAL_FSE26DEMO.pdf",
       "type": "inproceedings"
     },
@@ -126,11 +119,7 @@
       "releaseDate": "2026-04-01",
       "url": "https://damorim.github.io/publications/Silva_ETAL_MSR26.pdf",
       "summary": "Empirical study investigating cross-OS portability issues in Python projects, identifying common causes and patterns.",
-      "authors": [
-        "Denini Silva",
-        "MohamadAli Farahat",
-        "Marcelo d'Amorim"
-      ],
+      "authors": ["Denini Silva", "MohamadAli Farahat", "Marcelo d'Amorim"],
       "pdf": "https://damorim.github.io/publications/Silva_ETAL_MSR26.pdf",
       "type": "inproceedings"
     },

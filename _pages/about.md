@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Computer Science (CIn UFPE). Adjunct Professor at UFRPE.
+subtitle: Ph.D. in Computer Science (CIn UFPE). Assistant Professor at UFRPE.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Adjunct Professor at the [Federal Rural University of Pernambuco (UFRPE)](https://www.ufrpe.br). I obtained my Ph.D. in Computer Science from the [Federal University of Pernambuco (CIn-UFPE)](https://www.cin.ufpe.br), under the supervision of [Prof. Dr. Marcelo d’Amorim](https://damorim.github.io/). My doctoral research focused on software testing, flaky tests, and software reliability. Since 2020, I have conducted research and developed techniques and tools to improve software quality through program analysis and systematic testing.
+I am an Assistant Professor at the [Federal Rural University of Pernambuco (UFRPE)](https://www.ufrpe.br). I obtained my Ph.D. in Computer Science from the [Federal University of Pernambuco (CIn-UFPE)](https://www.cin.ufpe.br), under the supervision of [Prof. Dr. Marcelo d’Amorim](https://damorim.github.io/). My doctoral research focused on software testing, flaky tests, and software reliability. Since 2020, I have conducted research and developed techniques and tools to improve software quality through program analysis and systematic testing.
 
 My research interests include:
 
