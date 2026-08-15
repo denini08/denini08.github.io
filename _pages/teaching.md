@@ -11,6 +11,17 @@ nav_order: 6
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
+## 2026.2
+
+**Compilers**  
+This course covers the theory and practice of compiler construction, from lexical and syntactic analysis to semantic analysis, intermediate representations, and code generation. Students build the stages of a compiler and connect formal language theory to real implementation. Offered at UFRPE for the Computer Engineering course.
+
+**Theory of Computation**  
+This course introduces the formal foundations of computer science, including automata, formal languages, Turing machines, computability, and complexity. Students learn to reason about what can be computed and at what cost. Offered at UFRPE for the Computer Engineering course.
+
+**Project 4 (Software Factory)**  
+A hands-on course organized as a software factory, where students work in teams to develop real software projects end to end. The focus is on applying engineering practices — requirements, agile process, version control, code review, testing, and delivery — in a setting that mirrors industry work. Offered at UFRPE for the Computer Engineering course.
+
 ## 2026.1
 
 **Design Patterns**  
