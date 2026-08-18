@@ -5,10 +5,8 @@ date: 2026-03-23 10:00:00-0300
 inline: false
 ---
 
-Exciting news: I passed the **public exam (concurso público) at the Federal Rural University of Pernambuco (UFRPE)**! 🎉
+I passed the public exam for an Assistant Professor position at the Federal Rural University of Pernambuco (UFRPE).
 
 ---
 
-I'm happy to share that I passed the public exam for an **Assistant Professor** position at the **Universidade Federal Rural de Pernambuco (UFRPE)**, in the area of **Computer Science — Theory of Computation and Compilers**.
-
-This is a significant milestone in my academic career, and I'm grateful for the opportunity to potentially join UFRPE's faculty. I'm still awaiting further details and next steps in the process, and I'll share more updates as things unfold.
+The position is in Computer Science, in the area of Theory of Computation and Compilers. I am now waiting on the remaining steps of the process and will post updates as they come.

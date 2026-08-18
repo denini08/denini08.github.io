@@ -6,8 +6,10 @@ inline: false
 related_posts: false
 ---
 
-I have officially defended my master’s dissertation and can now say I’m a Master in Computer Science! 🎓
+I defended my master's dissertation in Computer Science at CIn-UFPE.
 
 ---
 
-The title of my dissertation was _“Using Noise to Detect Test Flakiness”_. I am deeply grateful to my supervisor and co-supervisor for their guidance and support, as well as to the evaluation committee for their valuable feedback throughout this process.
+The dissertation was titled _"Using Noise to Detect Test Flakiness"_. The idea behind it is simple: by adding controlled noise to the machine running the tests — competing for CPU, memory, and I/O — we change the timing of concurrent executions and surface flaky tests that a plain rerun would rarely expose. That work later became the Shaker tool.
+
+My thanks to my supervisor and co-supervisor, and to the committee for the feedback.
