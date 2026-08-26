@@ -23,4 +23,6 @@ My research interests are in software testing and program analysis, with a focus
 
 I am a member of the [Software Testing and Analysis Research (STAR)](https://github.com/STAR-RG) group, where I have helped build [Shaker](https://star-rg.github.io/shaker), which adds noise to the machine to expose concurrency-related flaky tests faster; [Shipwright](https://github.com/STAR-RG/shipwright), for Dockerfile repair; and [PASTE](https://github.com/STAR-RG/paste), for soundy parallelization of test execution. More recently, I have worked on PyMOP, a runtime verification tool for Python, and on cross-OS portability issues in Python projects.
 
-I am happy to talk with UFRPE students interested in software testing, program analysis, or empirical software engineering.
+I am happy to talk with anyone interested in software testing, program analysis, or empirical software engineering.
+
+You can reach me at denini.gabriel@ufrpe.br.
