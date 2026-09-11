@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at UFRPE. Software testing and program analysis.
+subtitle: Assistant Professor. Researcher in Software Testing and Program Analysis.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at the [Federal Rural University of Pernambuco (UFRPE)](https://www.ufrpe.br), where I teach Compilers, Theory of Computation, and software engineering courses. I received my Ph.D. in Computer Science from [CIn-UFPE](https://www.cin.ufpe.br), advised by [Marcelo d'Amorim](https://damorim.github.io/).
+I am Professor at the [Federal Rural University of Pernambuco (UFRPE)](https://www.ufrpe.br), where I teach Compilers, Theory of Computation, and software engineering courses. I received my Ph.D. in Computer Science from [CIn-UFPE](https://www.cin.ufpe.br), advised by [Prof. Marcelo d'Amorim](https://damorim.github.io/).
 
 My research interests are in software testing and program analysis, with a focus on flaky tests. I also work on runtime verification, test parallelization, and the reliability of build and execution environments.
 
