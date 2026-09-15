@@ -6,7 +6,7 @@ subtitle: Assistant Professor. Researcher in Software Testing and Program Analys
 
 profile:
   align: right
-  image: prof_pic3.jpeg
+  image: prof_pic4.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>UFRPE</p>
